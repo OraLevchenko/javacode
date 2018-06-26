@@ -1,7 +1,6 @@
+ // My second java microservice!
 /* Copyright © 2016 Oracle and/or its affiliates. All rights reserved. */
 package com.example.rest;
- 
- // My second 34 java microservice!
 
 import java.util.Optional;
 import java.util.Properties;
@@ -55,7 +54,7 @@ public class App {
     private static void runGetRequest() {
  
     	// sample URL
-        String url = "http://140.86.15.104:3000/shield/33/45/pink/OraLevchenko/";
+        String url = "http://140.86.15.104:3000/shield/33/45/pink/OraLevchenko";
         CloseableHttpResponse response = null;
  
         try {
