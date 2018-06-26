@@ -30,7 +30,7 @@ public class App {
      * Start the server.
      */
  
- // My first java microservice!
+ // My second java microservice!
  
     public static void main(String[] args) {
         // Set properties
